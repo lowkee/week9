@@ -1,0 +1,9 @@
+/* your styles for float-practice.html here */
+
+.blue, .orange, .pink {
+  float: left;
+}
+
+.yellow, .red, .purple, .black, .green{
+  float: right;
+}
